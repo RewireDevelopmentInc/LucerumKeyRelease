@@ -1,7 +1,7 @@
-# 🚀 Lucerum Key — Beta Release Repository
+# 🚀 Lucerum Key — Release Repository
 
-Welcome to the **official release hub** for **Lucerum Key** beta versions.  
-This repository is dedicated **exclusively** to hosting downloadable builds for testers, early adopters, and stakeholders — it does **not** contain source code.
+Welcome to the **official release hub** for **Lucerum Key** versions.  
+This repository is dedicated **exclusively** to hosting downloadable builds, it does **not** contain source code.
 
 ---
 
@@ -14,8 +14,8 @@ The beta program allows us to:
 
 ---
 
-## 🔗 Download Beta Versions
-All beta builds are available in the [**Releases**](../../releases) section of this repository.
+## 🔗 Download Versions
+All builds are available in the [**Releases**](../../releases) section of this repository.
 
 Each release includes:
 - **Installer** (`.exe` or platform-specific package)
@@ -24,17 +24,9 @@ Each release includes:
 
 ---
 
-## 🧪 Beta Program Notes
-- **Purpose:** These builds are for testing and feedback only.
-- **Stability:** Beta versions may contain bugs or incomplete features.
-- **Feedback:** Please report issues via the main Lucerum Key development channels.
-
----
-
 ## 📜 License & Usage
 - All binaries are provided under the licensing terms of Lucerum Key.
 - Redistribution without permission is prohibited.
-- Use is at your own risk during the beta phase.
 
 ---
 
@@ -45,5 +37,6 @@ For questions, feedback, or bug reports, please reach out through:
 
 ---
 
-> **Note:** This repository is **only** for hosting beta releases.  
+> **Note:** This repository is **only** for hosting Lucerum Key software releases.  
 > The main development repository remains private.
+
