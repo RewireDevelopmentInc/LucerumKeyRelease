@@ -6,11 +6,7 @@ This repository is dedicated **exclusively** to hosting downloadable builds, it 
 ---
 
 ## 📦 About Lucerum Key
-Lucerum Key is an advanced software for a multivariate, multimodal neuroinformatics workspace.  
-The beta program allows us to:
-- Gather real-world feedback
-- Test new features before public release
-- Ensure stability and performance across environments
+Lucerum Key is an advanced software for a multivariate, multimodal neuroinformatics workspace.
 
 ---
 
