@@ -1,16 +1,16 @@
-# 🚀 Lucerum Key — Release Repository
+# LucerumKey — Release Repository
 
-Welcome to the **official release hub** for **Lucerum Key** versions.  
+Welcome to the **official release hub** for **LucerumKey** versions.  
 This repository is dedicated **exclusively** to hosting downloadable builds, it does **not** contain source code.
 
 ---
 
-## 📦 About Lucerum Key
+## About LucerumKey
 Lucerum Key is an advanced software for a multivariate, multimodal neuroinformatics workspace.
 
 ---
 
-## 🔗 Download Versions
+## Download Versions
 All builds are available in the [**Releases**](../../releases) section of this repository.
 
 Each release includes:
@@ -20,13 +20,13 @@ Each release includes:
 
 ---
 
-## 📜 License & Usage
+## License & Usage
 - All binaries are provided under the licensing terms of Lucerum Key.
 - Redistribution without permission is prohibited.
 
 ---
 
-## 📬 Contact
+## Contact
 For questions, feedback, or bug reports, please reach out through:
 - **Email:** support@lucerum.ai
 - **Website:** [Lucerum site](https://www.lucerum.ai)
